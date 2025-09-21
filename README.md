@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello from GitHub 👋
 
 <!--
 **EmekaEkwo/EmekaEkwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +23,4 @@ I’m an aspiring software developer interested in Cloud Computing, Generative A
 -⚡ Fun Fact
 - Outside of tech, I play Division 2 soccer ⚽ and train with professional-level standards.
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This line was added locally
