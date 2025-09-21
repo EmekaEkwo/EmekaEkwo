@@ -12,16 +12,17 @@ I’m an aspiring software developer interested in Cloud Computing, Generative A
 - Languages: Java, C++, JavaScript, HTML, SQL
 - Tools: Git, VS Code, Unix, Networking basics
 
-- ## 🎯 Current Goals
+- 🎯 Current Goals
 - Learning Cloud Computing and Generative AI
 - Building projects with the Software Development Life Cycle (SDLC)
 - Improving soccer analytics with Python & SQL
 
-- ## 📫 Connect with Me
+- 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/emeka-ekwo-0a09b4288)
 - Email: cekwo1@uncc.edu
+-⚡ Fun Fact
+- Outside of tech, I play Division 2 soccer ⚽ and train with professional-level standards.
 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
